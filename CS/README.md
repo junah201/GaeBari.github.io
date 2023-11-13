@@ -13,6 +13,7 @@
 - [DB에서 Join 쿼리로 데이터 조회하기 vs 각각 쿼리로 조회해서 Application Join하기](https://f-lab.kr/blog/which-layer-join-query)
 - [MySQL InnoDB lock & deadlock 이해하기](https://www.letmecompile.com/mysql-innodb-lock-deadlock)
 - [MySQL에서 ‘a’ = ‘a ‘가 true로 평가된다? - 우아한기술블로그](https://techblog.woowahan.com/2559)
+- [토스뱅크 데이터 설계사상](https://www.youtube.com/watch?v=KoLObZ9A3Kc)
 
 ## 네트워크
 
@@ -39,3 +40,4 @@
 ## 디자인패턴
 
 [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans)
+
