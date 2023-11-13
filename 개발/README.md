@@ -22,8 +22,9 @@
 - [프론트엔드 에러 로그 시스템 Sentry 적용기](https://urbanbase.github.io/dev/2021/03/04/Sentry.html)
 - [프론트엔드 모노레포 TBD로 관리하기](https://blog.mathpresso.com/qanda-frontend-monorepo-with-tbd-af752314d30f)
 - [좋은 API Response Body 만들기](https://jojoldu.tistory.com/720)
+- [(번역) Next.js에서 패키지 가져오기를 최적화한 방법](https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js?utm_source=substack&utm_medium=email)
 
-#### NextJS
+## # NextJS
 
 - [NextJS 13.3 변경점](https://velog.io/@jay/Next.js-13.3)
 - [프로젝트 설치 및 실행](https://velog.io/@jay/Next.js-13-master-course-project-setting)
@@ -75,3 +76,4 @@
 ## 언어 비교
 
 - [‘Node.js’ VS ‘Java Spring’](https://medium.com/naverfinancial/node-js-vs-java-spring-c4699565918e)
+
